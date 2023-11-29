@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Mi App con Menú</string>
-    <string name="action_bar_option1">Opción 1</string>
-    <string name="action_bar_option_2">Opcion 2</string>
+    <string name="action_bar_option1">Compartir</string>
+    <string name="action_bar_option_2">Generar PDF</string>
+    <string name="action_bar_option_3">Imprimir</string>
+    <string name="action_bar_option_4">Enviar</string>
+    <string name="action_bar_option_5">Marcar como pagada</string>
 </resources>

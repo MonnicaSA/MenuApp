@@ -8,4 +8,13 @@
     <item
         android:id="@+id/actionBarOpt2"
         android:title="@string/action_bar_option_2" />
+    <item
+        android:id="@+id/actionBarOpt3"
+        android:title="@string/action_bar_option_3" />
+    <item
+        android:id="@+id/actionBarOpt4"
+        android:title="@string/action_bar_option_4" />
+    <item
+        android:id="@+id/actionBarOpt5"
+        android:title="@string/action_bar_option_5" />
 </menu>

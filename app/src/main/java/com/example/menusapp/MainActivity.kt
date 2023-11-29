@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
                 Toast
                     .makeText(
                         this,
-                        "Opcion 1 ejecutada",
+                        "Compartir",
                         Toast.LENGTH_SHORT
                     )
                     .show()
@@ -38,7 +38,37 @@ class MainActivity : AppCompatActivity() {
                 Toast
                     .makeText(
                         this,
-                        "Opcion 2 ejecutada",
+                        "Generar PDF",
+                        Toast.LENGTH_SHORT
+                    )
+                    .show()
+                true
+            }
+            R.id.actionBarOpt3 -> {
+                Toast
+                    .makeText(
+                        this,
+                        "Imprimir",
+                        Toast.LENGTH_SHORT
+                    )
+                    .show()
+                true
+            }
+            R.id.actionBarOpt4 -> {
+                Toast
+                    .makeText(
+                        this,
+                        "Enviar",
+                        Toast.LENGTH_SHORT
+                    )
+                    .show()
+                true
+            }
+            R.id.actionBarOpt5 -> {
+                Toast
+                    .makeText(
+                        this,
+                        "Marcar como pagada",
                         Toast.LENGTH_SHORT
                     )
                     .show()
