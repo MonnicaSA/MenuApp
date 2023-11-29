@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mi App con Menú</string>
+    <string name="action_bar_option1">Opción 1</string>
+    <string name="action_bar_option_2">Opcion 2</string>
+</resources>
