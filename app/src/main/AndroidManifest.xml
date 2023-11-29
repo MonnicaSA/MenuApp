@@ -13,6 +13,9 @@
         android:theme="@style/Theme.MenusApp"
         tools:targetApi="31">
         <activity
+            android:name=".SiguienteActivity"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
